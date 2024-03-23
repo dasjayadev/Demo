@@ -1,3 +1,3 @@
 # Demo
 javascript
-auther-jd
+author-jd
